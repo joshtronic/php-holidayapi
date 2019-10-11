@@ -1,4 +1,13 @@
+# This repository has moved to [https://github.com/holidayapi/php-holidayapi](https://github.com/holidayapi/php-holidayapi)
+
+**The PHP package has also been renamed from `joshtronic/php-holidayapi` to `holidayapi/holidayapi-php`**
+
+**This repository has been archived.**
+
+---
+
 # php-holidayapi
+
 Official PHP library for [Holiday API](https://holidayapi.com)
 
 ## Installation
@@ -27,4 +36,3 @@ $parameters = array(
 
 $response = $hapi->holidays($parameters);
 ```
-
